@@ -4,7 +4,7 @@
   "bin": {
     "strava-pr-efforts": "./cli.js"
   },
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Transform stream that filters PRs ",
   "license": "MIT",
   "repository": "bendrucker/strava-pr-efforts",
