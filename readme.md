@@ -1,4 +1,4 @@
-# strava-pr-efforts [![Build Status](https://travis-ci.org/bendrucker/strava-pr-efforts.svg?branch=master)](https://travis-ci.org/bendrucker/strava-pr-efforts)
+# strava-pr-efforts [![Build Status](https://travis-ci.org/bendrucker/strava-pr-efforts.svg?branch=master)](https://travis-ci.org/bendrucker/strava-pr-efforts) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/strava-pr-efforts.svg)](https://greenkeeper.io/)
 
 > Transform stream that filters PRs 
 
